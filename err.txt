@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/takilchukov/Desktop/instance_seg_abris/./sources/main.py", line 348, in <module>
+    args = os.environ.get("QUERY_STRING", "/input/test_365 (19).tif&./output/")
+NameError: name 'os' is not defined
